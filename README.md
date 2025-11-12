@@ -44,16 +44,6 @@
   ![ROC Curve](Plots/roc.png)
 ---
 
-## Technologies Used
-
-- Python
-- Jupyter Notebook
-- Pandas, NumPy
-- Seaborn, Matplotlib
-- Scikit-learn
-
----
-
 ## Results
 
 - Logistic Regression achieved **97.37% accuracy** on the test data.
